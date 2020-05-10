@@ -11,4 +11,6 @@ i have added all my jar inside lib file ...kinding buildpath before running proj
 buildpath>configpath>add-externaljar>apply-and-close
 
 whenever you will change you excel file please change name of file in code to export in database i have already added 3 excel file 
-users,customer and employees please once check the file name in code befor ex[orting data in database.
+users,customer and employees please once check the file name in code befor exporting data in database.
+
+i also added screenshot of output.
